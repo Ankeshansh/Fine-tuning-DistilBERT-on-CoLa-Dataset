@@ -1,5 +1,3 @@
-# Fine-tuning-BERT-on-CoLa-Dataset
-
 # Fine-tuning DistilBERT on the CoLA Dataset
 
 ## Overview
