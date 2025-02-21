@@ -43,6 +43,6 @@ This project demonstrates how to fine-tune **DistilBERT** on the **CoLA (Corpus 
 ## Results
 | Model | Accuracy | F1 Score | MCC |
 |--------|----------|---------|------|
-| Baseline | 0.34 | 0.25 | 0.02 |
-| Fine-tuned DistilBERT | 0.79 | 0.78 | 0.48 |
+| Baseline DistilBERT for Sequence Classification  | 0.34 | 0.25 | 0.02 |
+| Finetuned DistilBERT for Sequence Classification | 0.79 | 0.78 | 0.48 |
 | Enhanced DistilBERT | 0.81 | 0.80 | 0.53 |
