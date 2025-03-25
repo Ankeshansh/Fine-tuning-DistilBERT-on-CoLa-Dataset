@@ -51,11 +51,13 @@ This project demonstrates how to fine-tune **DistilBERT** on the **CoLA (Corpus 
    - Compare **baseline vs. fine-tuned model performance**
 
 6. **Results Comparison**
+
 | Model | Accuracy | F1 Score | MCC |
 |--------|----------|---------|------|
 | Baseline | 0.34 | 0.25 | 0.02 |
 | Full Fine-Tuned DistilBERT | 0.79 | 0.78 | 0.48 |
 | Transfer Learning with Custom Layers | 0.81 | 0.80 | 0.53 |
+
 
 ## Deployment
 The fine-tuned model can be deployed on **Hugging Face Model Hub**:
